@@ -41,99 +41,78 @@
     </li>
   </ul>
 </details>
-<!--
 <details open="open">
-  <summary><b>🏆 Awards and Honors</b></summary>
+  <summary><b>👩‍💻 Activities</b></summary>
   <ul>
     <li>
-      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/%EB%8F%99%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90%20SW%20%EA%B3%B5%EB%AA%A8%EB%8C%80%EC%A0%84%20%EA%B8%88%EC%83%81.pdf">Gold Award in Dongguk SW festival, AI Personal Training service Home PT, 2019
+        Naver corperation AI 개발 인턴, 2021
+    </li>
+    <li>
+      <a href="https://www.swmaestro.org/sw/singl/projectIntc/list.do?menuNo=200013">
+        Software Maestro 11기 우수자(TOP 15), 2020
       </a>
     </li>
     <li>
-      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/%EB%8F%99%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90%20ICT%20Farm%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20%EC%9A%B0%EC%88%98%EC%83%81.pdf">
-        Excellent Prize in Dongguk ICT FARM Competition, AI Personal Training service Home PT, 2019
-      </a>
+        골프 자세 분석 파이프라인 특허 출원, 2020
     </li>
     <li>
-        Best Idea in Ministry of SMEs and Startups IdeaMaru, AI Baseball Referee, 2020
+        IEEE IRC Robotics 학회 논문 게재, 2020
     </li>
     <li>
-        Selected for high performance computing support business organized by NIPA, 2020
+      동국대학교 빅데이터 팜 회장, 2019
     </li>
     <li>
-        Investment Attraction in Ministry of Science and ICT SW maestro, AI Baseball Referee, 2020
+      Hi-SW 봉사단 활동, 2018
     </li>
     <li>
-      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%206%EC%9C%84.pdf">
-        6th place in online AI Competition organized by NIPA, 2020
-      </a>
+      시각장애인을 위한 e-book 플랫폼 연구(기술이전), 2018
     </li>
     <li>
-      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/%EC%A0%9C15%ED%9A%8C%20%EC%9D%B4%EA%B3%BC%EB%8C%80%ED%95%99%20%EC%97%B0%EA%B5%AC%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C.pdf">
-        Grand Prize in DGU Research Project Competition in College of Science, Similarity research between Object Detection and Pose Estimation, 2020
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/동국%202020%20창업프리미어리그%20우수상.pdf">
-        Excellent Prize in Dongguk Startup ConTest, AI Baseball Referee SMART Referee, 2020
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/식품안전나라%20챌린지%20대상.pdf">
-        Grand Prize in 식품 안전나라 챌린지, 내 손안의 영양사, 식단함, 2020
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%20%E1%84%8E%E1%85%A2%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B5%20%E1%84%83%E1%85%A2%E1%84%89%E1%85%A1%E1%86%BC.pdf">
-        Grand Prize in 인공지능 챌린지, 내 손안의 모바일 헬스장 Home PT, 2020
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/2020%20Farm%20경진대회%20장려상.pdf">
-        Encouragement Award in Dongguk ICT FARM Competition, AI Baseball Referee SMART Referee, 2020
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/2020%20Farm%20경진대회%20우수상.pdf">
-        Excellent Prize in Dongguk ICT FARM Competition, 내 손안의 모바일 헬스장 Home PT, 2020
-      </a>
-    </li>
-    <li>
-      <a href="https://dacon.io/competitions/official/235697/talkboard/402704?dtype=recent">
-        5th place in Dacon AI Vision Competition, 2021
-      </a>
+      동국대학교 팜 시스템 회장, 2018
     </li>
   </ul>
 </details>
-
-<details open="open">
-  <summary><b>💻 Careers</b></summary>
+<details>
+  <summary><b>🏆 Awards</b></summary>
   <ul>
     <li>
-      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/학위증_영문.pdf">
-        Bachelor of Science in Mathematics, Statistics at DGU
+      <a href="https://github.com/Uijeong97/Uijeong97/blob/main/docs/2020%20인공지능%20챌린지%20대상.pdf">DGU AI ICC 주관 인공지능 챌린지 대상, 2020
       </a>
     </li>
     <li>
-      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/SW%20Maestro%20수료증.pdf">
-        Software Maestro 10th
+      <a href="https://github.com/Uijeong97/Uijeong97/blob/main/docs/2020%20동국%20프리미어%20리그%20우수상.pdf">
+        DGU 창업 프리미어리그 우수상, 2020
       </a>
     </li>
     <li>
-      BigData Farm president at DGU, 2020
-    </li>
-    <li>
-      Founder of EverySports
-    </li>
-    <li>
-      <a href="http://pr.korea.ac.kr/bbs/board.php?bo_table=sub2_2&wr_id=167">
-        Graduate Student at Korea Univ.
+      <a href="https://github.com/Uijeong97/Uijeong97/blob/main/docs/2019%20제%204회%20동국%20SW%20공모대전%20금상.pdf">
+        제 4회 동국 SW공모대전 금상, 2019
       </a>
     </li>
-  </ul>
+    <li>
+      <a href="https://github.com/Uijeong97/Uijeong97/blob/main/docs/2019%20FARM%20ICT%20아이디어%20경진대회%20우수상.pdf">
+        FARM ICT 아이디어 경진대회 우수상, 2019
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/Uijeong97/Uijeong97/blob/main/docs/2019%20제%204회%20동국%20SW%20공모대전%20금상.pdf">
+        제 12회 TOPCIT 정기평가 우수상, 2019
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/Uijeong97/Uijeong97/blob/main/docs/2019%20Purdue%20Summer%20Program.pdf">
+        IITP-Purdue Summer Program Certificate of Merit, 2019
+      </a>
+    </li>
+        <li>
+      <a href="https://github.com/Uijeong97/Uijeong97/blob/main/docs/2018%20한국교육방송공사%20표창장.pdf">
+        한국교육방송공사 사장 표창, 2018
+      </a>
+    </li>
 </details>
 
-<details open="open">
+
+<details>
   <summary><b>Others</b></summary>
   <ul>
     <li>
@@ -141,48 +120,7 @@
         Presentations at NUS about <b>"AI Personal Training service Home PT"</b>
       </a>
     </li>
-    <li>
-      <a href="http://www.dongguk.edu/mbs/kr/jsp/publicity/newsView.jsp?id=kr_090207000000&boardId=12&boardSeq=26719544&boardType=02&spage=1&command=view">
-        Article of <b>"AI Competition 2020"</b>
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/NVIDIA%20DLI%20Certification.pdf">
-        Certification of <b>"NVIDIA DLI 2020"</b>
-      </a>
-    </li>
-    <li>
-      <a href="https://www.dgupress.com/news/articleView.html?idxno=40225">
-        Article of <b>"DGU Research Project"</b>
-      </a>
-    </li>
-    <li>
-      <a href="http://www.aitimes.com/news/articleView.html?idxno=134403">
-        Article of <b>"내 손안의 영양사, 식단함"</b>
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/comojin1994/comojin1994/blob/master/docs/ios_certification.pdf">
-        Certification of <b>"2021 IOS App 개발 교육"</b>
-      </a>
-    </li>
   </ul>
 </details>
 
-**Languages and Tools**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
--->
-<!--[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=comojin1994&theme=dark)-->
 ![Uijeong's github stats](https://github-readme-stats.vercel.app/api?username=Uijeong97&theme=dark&show_icons=true)
-<!--
-[![Uijeong @ solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=uiui_97)](https://solved.ac/profile/Uijeong97)
--->
