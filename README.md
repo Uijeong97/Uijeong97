@@ -76,6 +76,10 @@
   <summary><b>🏆 Awards</b></summary>
   <ul>
     <li>
+      <a href="docs/2021 과학기술정보통신부 SW마에스트르 11기 우수자 인증서.pdf">과학기술정보통신부 주관 SW마에스트로 우수자 장관 표창, 2021
+      </a>
+    </li>
+    <li>
       <a href="https://github.com/Uijeong97/Uijeong97/blob/main/docs/2020%20인공지능%20챌린지%20대상.pdf">DGU AI ICC 주관 인공지능 챌린지 대상, 2020
       </a>
     </li>
