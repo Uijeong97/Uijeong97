@@ -121,7 +121,17 @@
   <ul>
     <li>
       <a href="https://events.comp.nus.edu.sg/view/17028">
-        Presentations at NUS about <b>"AI Personal Training service Home PT"</b>
+        Presentations at NUS about <b>"AI Personal Training service Home PT"</b>, 2020
+      </a>
+    </li>
+    <li>
+      <a href="https://drive.google.com/file/d/11Ij4bjhBtrfCMGSIZgM48SysQLjJ-Ygv/view">
+        Patent: <b>"운동 자세 평가 장치 및 그 동작 방법 (EXERCISE POSTURE EVALUATION DEVICE AND OPERATING METHOD THEREOF)"</b>, 2021
+      </a>
+    </li>
+    <li>
+      <a href="https://dacon.io/competitions/official/235697/talkboard/402704?dtype=recent">
+        5th place in Dacon AI Vision Competition, 2021
       </a>
     </li>
   </ul>
