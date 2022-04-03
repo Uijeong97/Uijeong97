@@ -45,10 +45,10 @@
   <summary><b>👩‍💻 Activities</b></summary>
   <ul>
     <li>
-        Naver corperation AI & MLOps Engineer, 2021-(현재)
+        Naver corperation MLOps Engineer, 2021-(현재)
     </li>
     <li>
-        Naver corperation AI 개발 인턴, 2021
+        Naver corperation ML modeler intern, 2021
     </li>
     <li>
       <a href="https://www.swmaestro.org/sw/singl/projectIntc/list.do?menuNo=200013">
