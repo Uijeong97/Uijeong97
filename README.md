@@ -45,6 +45,9 @@
   <summary><b>👩‍💻 Activities</b></summary>
   <ul>
     <li>
+        Naver corperation AI & MLOps Engineer, 2021-(현재)
+    </li>
+    <li>
         Naver corperation AI 개발 인턴, 2021
     </li>
     <li>
@@ -75,6 +78,10 @@
 <details>
   <summary><b>🏆 Awards</b></summary>
   <ul>
+    <li>
+      <a href="">제9회 공공데이터 활용 비즈니스 아이디어 공모전 최우수상, 2021
+      </a>
+    </li>
     <li>
       <a href="https://github.com/Uijeong97/Uijeong97/blob/main/docs/2021%20SW%E1%84%86%E1%85%A1%E1%84%8B%E1%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%85%E1%85%B3%2011%E1%84%80%E1%85%B5%20%E1%84%8B%E1%85%AE%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A1%20%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%89%E1%85%A5.pdf">과학기술정보통신부 주관 SW마에스트로 우수자 장관 표창, 2021
       </a>
